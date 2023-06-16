@@ -4,3 +4,6 @@ day = "Good"
 time = 2
 height = 6
 calc = 122
+miles = 13.8
+width = 33.1
+length = 52.89
