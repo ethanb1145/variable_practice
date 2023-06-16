@@ -13,6 +13,6 @@ ground = true
 task = "using data types"
 name = "Ethan B"
 day = "very good"
-puts "The school for " + name + " is Turing"
-puts 2004 + 18
+puts "The college that " + name + " is attending is Turing"
+puts 2004 + 19
 puts "Hello, the current task is " + task + "!" 
