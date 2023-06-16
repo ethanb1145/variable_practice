@@ -16,3 +16,4 @@ day = "very good"
 puts "The college that " + name + " is attending is Turing"
 puts 2004 + 19
 puts "Hello, the current task is " + task + "!" 
+puts "Have a " + day + " day!"
